@@ -92,14 +92,6 @@ This project is an interactive Sales Analysis Dashboard built in Microsoft Excel
 
 -Encourage digital payment methods to enhance customer convenience.
 
-## 📁 Repository Contents
-
-
-
-Dashboard Screenshot
-
-README.md
-
 ## 📸 Dashboard Preview
 
 <img width="1227" height="586" alt="Sales_Analysis_Dashboard" src="https://github.com/user-attachments/assets/c24f23ac-1fe9-4a68-8134-6b8201af768a" />
