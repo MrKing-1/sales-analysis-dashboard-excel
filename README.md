@@ -37,6 +37,8 @@ This project is an interactive Sales Analysis Dashboard built in Microsoft Excel
 
 -Dashboard Design
 
+-Visual $ Analytical Storytelling
+
 
 ## 📈 Key Performance Indicators (KPIs)
 
